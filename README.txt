@@ -14,3 +14,6 @@ data : https://drive.google.com/drive/folders/1kt55wFq37nfNxwG8jVlMz0fFqVJJ1x0r?
 Preprocessed image: https://drive.google.com/drive/folders/1gIYImURg35Zt_1fpQXfqHvlRDWWs7jSA?usp=sharing
 Annotated Images : https://drive.google.com/drive/folders/16q0MJbVMsTbNlu8EDOHz3J3y0VzdkVPM?usp=sharing
 Yolov8n results : https://drive.google.com/drive/folders/1-V8nWqy7ziZvahIiPsffpixsN4Tr4ojf?usp=sharing
+
+
+Author : Muhammad Zawar Shaikh 

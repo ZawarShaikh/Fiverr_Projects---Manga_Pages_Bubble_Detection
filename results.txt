@@ -1,3 +1,5 @@
+# These are the results of text detection from bubbles and then translating into french language
+
 Bubble 1:
 Original (English): once THIS irs THE
 mission 1s
