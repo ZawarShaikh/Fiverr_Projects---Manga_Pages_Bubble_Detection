@@ -8,7 +8,7 @@ This project includes:
 7) results.txt - contains original text and translated text from the predicted manga page
 
 
-!-------------------- Links to the datasets and results -----------------!
+!------------------- Links to the datasets and results -----------------!
 Demon_Slayer : https://drive.google.com/drive/folders/15nKz0fPGgE9cCfTX7qsrQdQMCFk6J7o6?usp=sharing
 data : https://drive.google.com/drive/folders/1kt55wFq37nfNxwG8jVlMz0fFqVJJ1x0r?usp=sharing
 Preprocessed image: https://drive.google.com/drive/folders/1gIYImURg35Zt_1fpQXfqHvlRDWWs7jSA?usp=sharing
